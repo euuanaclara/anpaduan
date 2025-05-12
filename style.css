@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    border-color: greenyellow;
+    border-style: dashed;
+    border-width: px;
+    background-color: aqua;
+}
+
+h2 {
+    text-align: center;
+    border-color: aqua;
+    border-style: dashed;
+    border-width: px;
+    background-color: greenyellow;
+}
